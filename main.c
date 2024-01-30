@@ -13,7 +13,7 @@ int pac[10][10]={
 	{1,2,2,2,1,1,2,2,2,1},
 };
 
-
+g
 	
 void plateau(int pac[10][10]){
 	int i,j;
